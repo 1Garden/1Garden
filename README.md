@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://python.org" target="_blank"><img src="img/python.svg" alt="python" height="30"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="img/js.svg" alt="js" height="30"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="40"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="30"></a> &nbsp;&nbsp;&nbsp;
 </p>
 
