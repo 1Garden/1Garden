@@ -26,7 +26,7 @@
 </p>
   
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7" width="55%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=5" width="55%" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B9o&langs_count=8&hide_title=true&hide_border=true&layout=compact" width="38%" />
 </p>
