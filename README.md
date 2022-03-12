@@ -1,7 +1,7 @@
 <h1>Bingo 刘俊</h1>
 
 <p align="center">
-  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="80"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="80"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://python.org" target="_blank"><img src="img/python.svg" alt="python" height="80"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="img/js.svg" alt="js" height="80"></a>&nbsp;&nbsp;&nbsp;
@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="python" height="80"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org/" target="_blank"><img src="img/threejs.png" alt="threejs" height="80"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="80"/></a>  &nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org/" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="80"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://echarts.apache.org/" target="_blank"><img src="img/echarts.png" alt="echarts" height="80"/></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank"><img src="img/pandas.png" alt="python" height="60"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="python" height="60"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="60"/></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="60"/></a>  &nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
