@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pandas.pydata.org" target="_blank"><img src="img/pandas.png" alt="python" height="60"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank"><img src="img/pandas.svg" alt="python" height="60"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="python" height="60"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="60"/></a>  &nbsp;&nbsp;&nbsp;
