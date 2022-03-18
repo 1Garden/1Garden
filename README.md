@@ -10,10 +10,6 @@
 
 <div></div>
 
-<p align="center">
-  <img src="img/ocean.jpg" alt="Quokka" width="90%">
-</p>
-
 <h6>
   &nbsp; &nbsp;  💻  Coded for &nbsp; <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 </h6>
