@@ -46,7 +46,7 @@
    <ul>
       <li> ⚡️ Watch my demos on Three.js at <a href="https://three.bingo">three.bingo</a>.</li>
       <li> 📫 Here is my Chinese Resume 👉 <a href="resume/前端工程师_刘俊.pdf"><img src="img/resume.png" alt="Logo" width="25" height="25"></a></li>
-      <li> 🧨 Two classes I'm dedicated to: 
+      <li> 🧨 I'm dedicated to: 
         <a href="https://www.bilibili.com/video/BV1QE41147hU?p=6">老男孩Python全栈开发</a>，
         <a href="https://www.bilibili.com/video/BV1FV411r7m8?p=39">老男孩Go全栈开发</a>，
         <a href="https://www.bilibili.com/video/BV1gy4y1E7M5?p=3">数据结构与算法Python版</a>，
