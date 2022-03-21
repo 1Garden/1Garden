@@ -1,12 +1,13 @@
 <h1>Bingo 刘俊</h1>
 
+<h5>
+ &nbsp; &nbsp; ✨ Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="50"/> &nbsp; &nbsp; Glad to meet you !!! <img src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" width="50"/>
+</h5>
+
 <p align="center">
-  <img src="img/quokka.jpg" alt="Quokka" width="90%">
+  <img src="img/quokka.jpg" alt="Quokka" width="80%">
 </p>
 
-<h6>
- &nbsp; &nbsp; ✨ Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="50"/> &nbsp; &nbsp; Glad to meet you !!! <img src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" width="50"/>
-</h6>
 
 <div></div>
 
@@ -59,6 +60,19 @@
 </div>
 
 <div>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=461544312&auto=0&height=66"></iframe>
+  Listen to my favourite songs:
+  <br/>
+
+  <div>
+      <audio id="audio" controls="" preload="none">
+        <source id="mp3" src="./music/Dust_to_Dust.flac"></audio>
+          <audio id="audio" controls="" preload="none">
+        <source id="mp3" src="./music/Dust_to_Dust.flac"></audio>
+  </div>
+
+
+
 </div>
+
+
 
