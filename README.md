@@ -49,7 +49,7 @@
       <li> 🧨 I'm dedicated to: 
         <a href="https://www.bilibili.com/video/BV1QE41147hU?p=6">老男孩Python全栈开发</a>，
         <a href="https://www.bilibili.com/video/BV1FV411r7m8?p=39">老男孩Go全栈开发</a>，
-        <a href="https://www.bilibili.com/video/BV1gy4y1E7M5?p=3">数据结构与算法Python版</a>，
+        <a href="https://www.bilibili.com/video/BV1gy4y1E7M5?p=6">数据结构与算法Python版</a>，
         <a href="https://books.halfrost.com/leetcode">LeetCode in Go</a>，
         <a href="https://github.com/nanxiaobei/react-split-components">React Split Components</a>，
         <a href="https://svelte.dev">Svelte</a>，
@@ -57,3 +57,5 @@
       </li>
     </ul>
 </div>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=461544312&auto=0&height=66"></iframe>
