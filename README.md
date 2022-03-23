@@ -58,8 +58,8 @@
   <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="30"/></a>  &nbsp;&nbsp;&nbsp;
 </h5>
 
-<img align="right" alt="Quokka" src="img/bears.jpg" width="230" height="100%" />
-<img align="right" alt="Quokka" src="img/baby_owls.jpg" width="230" height="100%" />
+<img align="right" alt="Quokka" src="img/bears.jpg" width="220" height="100%" />
+<img align="right" alt="Quokka" src="img/baby_owls.jpg" width="220" height="100%" />
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=b9o&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>
