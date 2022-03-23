@@ -62,7 +62,7 @@
 <img align="right" alt="Quokka" src="img/baby_owls.jpg" width="230" height="100%" />
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b9o&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b9o&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
 <p align="left">
