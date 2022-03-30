@@ -1,5 +1,3 @@
-<h1>Bingo 刘俊</h1>
-
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="430" height="100%" />
 
 <div></div>
@@ -62,9 +60,9 @@
 <img align="right" alt="Quokka" src="img/baby_owls.jpg" width="220" height="100%" />
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b9o&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gophist&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b9o&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gophist&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
 </p>
