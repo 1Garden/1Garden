@@ -38,6 +38,12 @@
 </h5>
 
 <h5>
+  &nbsp; &nbsp;  ❤️ &nbsp; My hobbies: Cookies🍪 , Formula One🏎️ , Liverpool FC, etc.
+</h5>
+
+<div></div>
+
+<h5>
   &nbsp; &nbsp; 🪁 &nbsp; Languages I'm speaking: 
   <br /><br />
   <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
