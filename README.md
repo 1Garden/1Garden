@@ -15,13 +15,25 @@
 <div></div>
 
 <h5>
-  &nbsp; &nbsp; ⚡️ &nbsp; Watch my demos on Three.js at <a href="https://three.bingo">three.bingo</a>.
+  &nbsp; &nbsp; 🪁 &nbsp; Languages I'm speaking: 
+  <br /><br />
+  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="40"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://python.org" target="_blank"><img src="img/python.svg" alt="python" height="40"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="img/js.svg" alt="js" height="40"></a>&nbsp;&nbsp;&nbsp;
 </h5>
 
 <div></div>
 
 <h5>
-  &nbsp; &nbsp;  📫 &nbsp; Here is my Resume 👉 <a href="resume/前端工程师_刘俊.pdf"><img src="img/resume.png" alt="Logo" width="25" height="25"></a>
+  &nbsp; &nbsp; 🍓 &nbsp; Techs I'm working with: 
+  <br /> <br />
+  <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="30"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Python" height="30"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="30"/></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="30"/></a>  &nbsp;&nbsp;&nbsp;
 </h5>
 
 <div></div>
@@ -37,30 +49,27 @@
         ahooks.
 </h5>
 
+<div></div>
+
 <h5>
-  &nbsp; &nbsp;  ❤️ &nbsp; My hobbies: Cookies🍪 , Formula One🏎️ , Liverpool FC, etc.
+  &nbsp; &nbsp;  ❤️ &nbsp; My loves: Cookies🍪 , Formula One🏎️ , Liverpool FC.
 </h5>
 
 <div></div>
 
 <h5>
-  &nbsp; &nbsp; 🪁 &nbsp; Languages I'm speaking: 
-  <br /><br />
-  <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://python.org" target="_blank"><img src="img/python.svg" alt="python" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="img/js.svg" alt="js" height="40"></a>&nbsp;&nbsp;&nbsp;
+  &nbsp; &nbsp; ⚡️ &nbsp; Watch my demos on Three.js at <a href="https://three.bingo">three.bingo</a>.
 </h5>
 
+<div></div>
+
 <h5>
-  &nbsp; &nbsp; 🍓 &nbsp; Techs I'm working with: 
-  <br /> <br />
-  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="python" height="30"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="30"/></a>  &nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="30"/></a>  &nbsp;&nbsp;&nbsp;
+  &nbsp; &nbsp;  📫 &nbsp; Here is my Resume 👉 <a href="resume/前端工程师_刘俊.pdf"><img src="img/resume.png" alt="Logo" width="25" height="25"></a>
 </h5>
+
+<div></div>
+
+
 
 <img align="right" alt="Quokka" src="img/bears.jpg" width="220" height="100%" />
 <img align="right" alt="Quokka" src="img/baby_owls.jpg" width="220" height="100%" />
