@@ -18,9 +18,9 @@
   &nbsp; &nbsp; 🪁 &nbsp; Languages I'm speaking: 
   <br /><br />
   <a href="https://go.dev" target="_blank"><img src="img/go.png" alt="Go" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="40"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://python.org" target="_blank"><img src="img/python.svg" alt="python" height="40"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="img/js.svg" alt="js" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="img/rust.svg" alt="Rust" height="40"></a> &nbsp;&nbsp;&nbsp;
 </h5>
 
 <div></div>
@@ -41,10 +41,9 @@
 <h5>
   &nbsp; &nbsp;  🧨 &nbsp; I'm currently dedicated to: 
         <a href="https://www.bilibili.com/video/BV1QE41147hU?p=6">老男孩Python全栈开发</a>，
-        <a href="https://www.bilibili.com/video/BV1FV411r7m8?p=39">老男孩Go全栈开发</a>，
-        <a href="https://www.bilibili.com/video/BV1gy4y1E7M5?p=6">数据结构与算法Python版</a>，
+        Go Web开发进阶项目实战，
         <a href="https://books.halfrost.com/leetcode">LeetCode in Go</a>，
-        <a href="https://github.com/nanxiaobei/react-split-components">React Split Components</a>，
+        <a href="https://www.bilibili.com/video/BV1gy4y1E7M5?p=6">数据结构与算法Python版</a>，
         <a href="https://svelte.dev">Svelte</a>，
         ahooks.
 </h5>
@@ -52,7 +51,7 @@
 <div></div>
 
 <h5>
-  &nbsp; &nbsp;  ❤️ &nbsp; My loves: Cookies🍪 , Formula One🏎️ , Liverpool FC.
+  &nbsp; &nbsp;  ❤️ &nbsp; My loves: <a href="https://bfy.jun.one">BFY</a>, Cookies🍪 , Formula One🏎️ , Liverpool FC.
 </h5>
 
 <div></div>
@@ -62,14 +61,6 @@
 </h5>
 
 <div></div>
-
-<h5>
-  &nbsp; &nbsp;  📫 &nbsp; Here is my Resume 👉 <a href="resume/前端工程师_刘俊.pdf"><img src="img/resume.png" alt="Logo" width="25" height="25"></a>
-</h5>
-
-<div></div>
-
-
 
 <img align="right" alt="Quokka" src="img/bears.jpg" width="220" height="100%" />
 <img align="right" alt="Quokka" src="img/baby_owls.jpg" width="220" height="100%" />
