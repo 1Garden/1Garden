@@ -13,14 +13,7 @@ I also write Python, JavaScript & Rust.
 
 - [three.bingo](https://three.bingo) - My Three.js demos.
 
-### My Love
-
-- <a href="https://bfy.jun.one">BFY</a>
-- Cookies 🍪
-- Formula One 🏎️
-- Liverpool FC
-
-### My Love
+### Courses I'm working on
 
 - Go Web开发进阶项目实战
 - <a href="https://www.bilibili.com/video/BV1QE41147hU?p=6">老男孩Python全栈开发</a>
@@ -29,9 +22,18 @@ I also write Python, JavaScript & Rust.
 - <a href="https://svelte.dev">Svelte</a>
 - ahooks
 
+Recommended Online Courses: [School](https://github.com/Gophist/School)
+
+### My Love
+
+- <a href="https://bfy.jun.one">BFY</a>
+- Cookies 🍪
+- Formula One 🏎️
+- Liverpool FC
+
+### Techs I'm working with:
+
 <h5>
-  &nbsp; &nbsp; 🍓 &nbsp; Techs I'm working with: 
-  <br /> <br />
   <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="30"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Python" height="30"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
