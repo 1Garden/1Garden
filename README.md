@@ -1,6 +1,6 @@
-<img align="right" alt="Quokka" src="img/quokka.jpg" width="430" height="100%" />
+<img align="right" alt="Quokka" src="img/quokka.jpg" width="380" />
 
-Hi, my name is **Bingo Gophist**.
+Hi, my name is **Violette Bingo**.
 
 I'm a Go developer from China.
 
@@ -24,12 +24,17 @@ I also write Python, JavaScript & Rust.
 
 Recommended Online Courses: [School](https://github.com/Gophist/School)
 
+<img align="right" alt="Bear" src="img/bears.jpg" width="200"/>
+
 ### My Love
 
 - <a href="https://bfy.jun.one">BFY</a>
 - Cookies 🍪
 - Formula One 🏎️
 - Liverpool FC
+
+
+<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> 
 
 ### Techs I'm working with:
 
@@ -42,13 +47,8 @@ Recommended Online Courses: [School](https://github.com/Gophist/School)
   <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="30"/></a>  &nbsp;&nbsp;&nbsp;
 </h5>
 
-<img align="right" alt="Quokka" src="img/bears.jpg" width="220" height="100%" />
-<img align="right" alt="Quokka" src="img/baby_owls.jpg" width="220" height="100%" />
-
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gophist&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
-</p>
-<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gophist&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
