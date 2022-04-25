@@ -10,7 +10,7 @@ I'm a Go developer from China. I also write Python, JavaScript & Rust.
 ### My open-source projects
 
 - [three.bingo](https://three.bingo) - My Three.js demos.
-- [interview](https://github.com/xext/interview) - Everything about Go Interview.
+- [interview](https://github.com/xext/interview) - 面试导向的 Go 学习仓库.
 
 ### Courses I'm working on
 
