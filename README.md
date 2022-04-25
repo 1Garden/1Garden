@@ -22,7 +22,7 @@ I'm a Go developer from China. I also write Python, JavaScript & Rust.
 
 Recommended Online Courses: [School](https://github.com/Gophist/School)
 
-<img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
+<img align="right" alt="Bear" src="img/bears.jpg" width="170"/>
 
 ### My Love
 
