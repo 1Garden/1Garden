@@ -1,10 +1,8 @@
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="380" />
 
-Hi, my name is **Violette Bingo**.
+Hi, my name is **XexT** /ˈziːkst/.
 
-I'm a Go developer from China.
-
-I also write Python, JavaScript & Rust.
+I'm a Go developer from China. I also write Python, JavaScript & Rust.
 
 <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
@@ -24,7 +22,7 @@ I also write Python, JavaScript & Rust.
 
 Recommended Online Courses: [School](https://github.com/Gophist/School)
 
-<img align="right" alt="Bear" src="img/bears.jpg" width="200"/>
+<img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
 
 ### My Love
 
@@ -48,7 +46,7 @@ Recommended Online Courses: [School](https://github.com/Gophist/School)
 </h5>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gophist&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gophist&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XexT&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XexT&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
