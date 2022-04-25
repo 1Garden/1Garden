@@ -45,7 +45,7 @@ Recommended Online Courses: [School](https://github.com/Gophist/School)
 </h5>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XexT&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XexT&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="38%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XexT&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="43%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XexT&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" />
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
