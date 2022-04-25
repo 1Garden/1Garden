@@ -1,4 +1,4 @@
-<img align="right" alt="Quokka" src="img/quokka.jpg" width="380" />
+<img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
 
 Hi, my name is **XexT** /ˈziːkst/.
 
@@ -10,6 +10,7 @@ I'm a Go developer from China. I also write Python, JavaScript & Rust.
 ### My open-source projects
 
 - [three.bingo](https://three.bingo) - My Three.js demos.
+- [interview](https://github.com/xext/interview) - Everything about Go Interview.
 
 ### Courses I'm working on
 
@@ -22,7 +23,8 @@ I'm a Go developer from China. I also write Python, JavaScript & Rust.
 
 Recommended Online Courses: [School](https://github.com/Gophist/School)
 
-<img align="right" alt="Bear" src="img/bears.jpg" width="170"/>
+<img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
+<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> 
 
 ### My Love
 
@@ -30,9 +32,6 @@ Recommended Online Courses: [School](https://github.com/Gophist/School)
 - Cookies 🍪
 - Formula One 🏎️
 - Liverpool FC
-
-
-<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> 
 
 ### Techs I'm working with:
 
