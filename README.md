@@ -1,11 +1,6 @@
+Hi, my name is **Vooce**. I'm a Go developer from China. I also write Python, JavaScript & Rust. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
-
-Hi, my name is **XexT** /ˈziːkst/.
-
-I'm a Go developer from China. I also write Python, JavaScript & Rust.
-
-<img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
-
 
 ### My open-source projects
 
@@ -18,7 +13,7 @@ I'm a Go developer from China. I also write Python, JavaScript & Rust.
 
 ### My Love
 
-- <a href="https://bfy.jun.one">BFY</a>, eat Cookies 🍪, Formula One 🏎️, Liverpool FC
+- [BFY](https://bfy.jun.one), eat Cookies 🍪, Formula One 🏎️, Liverpool FC
 
 ### Techs I'm working with
 
