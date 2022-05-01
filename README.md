@@ -8,8 +8,8 @@ Hi, my name is **Vooce**. I'm a Go developer from China. I also write Python, Ja
 - [interview](https://github.com/xext/interview) - 面试导向的 Go 学习仓库.
 - [School](https://github.com/Gophist/School) - Recommended Online Courses
 
-<img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
-<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> 
+<!-- <img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
+<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> -->
 
 ### My Love
 
