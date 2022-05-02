@@ -15,7 +15,7 @@ Hi, my name is **Vooce**. I'm a Go developer from China. I also write Python, Ja
 
 - [BFY](https://bfy.jun.one), eat Cookies 🍪, Formula One 🏎️, Liverpool FC
 
-### Techs I'm working with
+### Tech Stack
 
 <h5>
   <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="50"></a> &nbsp;&nbsp;&nbsp;
