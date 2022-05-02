@@ -18,12 +18,13 @@ Hi, my name is **Vooce**. I'm a Go developer from China. I also write Python, Ja
 ### Techs I'm working with
 
 <h5>
-  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="30"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="30"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Python" height="30"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="30"/></a>  &nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://svelte.dev" target="_blank"><img src="img/svelte.svg" alt="sveltejs" height="30"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="30"/></a>  &nbsp;&nbsp;&nbsp;
 </h5>
 
