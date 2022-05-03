@@ -1,4 +1,4 @@
-Hi, my name is **Vooce**. I'm a Go developer from China. I also write Python, JavaScript & Rust. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+Hi, my name is **Vooce**. I'm a Go developer from China. I also write JavaScript & Python . <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
 
