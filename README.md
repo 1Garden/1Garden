@@ -1,4 +1,4 @@
-Hi, my name is **mophia**. I'm a Go developer from China. I also write JavaScript & Python . <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+Hi, my name is **mophia**, a Go developer from China. I write Go, JavaScript & Python. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
 
@@ -8,12 +8,10 @@ Hi, my name is **mophia**. I'm a Go developer from China. I also write JavaScrip
 - [interview](https://github.com/xext/interview) - 面试导向的 Go 学习仓库.
 - [School](https://github.com/Gophist/School) - Recommended Online Courses
 
-<!-- <img align="right" alt="Bear" src="img/bears.jpg" width="180"/>
-<img align="right" alt="Owls" src="img/baby_owls.jpg" width="200"/> -->
-
 ### Tech Stack
 
 <h5>
+  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="30"/></a>  &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="30"></a> &nbsp;&nbsp;&nbsp;
@@ -29,7 +27,7 @@ Hi, my name is **mophia**. I'm a Go developer from China. I also write JavaScrip
 
 ### My Love
 
-- [BFY](https://bfy.jun.one), eat Cookies 🍪, Formula One 🏎️, Liverpool FC
+- [BFY](https://bfy.jun.one), Cookies 🍪, Formula One 🏎️, Liverpool FC
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
