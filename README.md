@@ -24,7 +24,6 @@ Hi, my name is **mophia**, a Go developer from China. I write Go, JavaScript & P
 
 - [BFY](https://bfy.jun.one), Cookies 🍪, Formula One 🏎️, Liverpool FC.
 
-<br />
 
 ### My Statics
 <p align="left">
@@ -32,7 +31,6 @@ Hi, my name is **mophia**, a Go developer from China. I write Go, JavaScript & P
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="42%" />
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
 </p>
-<br />
 
 ### My open-source projects
 
