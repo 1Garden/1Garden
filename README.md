@@ -1,4 +1,4 @@
-👋 Hi, my name is **mophia**, a Full Stack developer from China.
+👋 Hi, my name is **mophia**, a **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink)](https://space.bilibili.com/688435320/)
 
 I'm focusing on Go, and also passionate on JavaScript ( Vue.js ) & Python. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
