@@ -9,7 +9,7 @@ I'm focusing on Go, and also passionate on JavaScript & Python. <img src="https:
 <h5>
   &nbsp;&nbsp;&nbsp;
   <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="55"></a> &nbsp;&nbsp;&nbsp;;&nbsp;
+  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="55"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="40"/></a>  &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
