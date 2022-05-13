@@ -1,4 +1,4 @@
-👋 Hi, my name is **mophia**, a **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-Telegram-blue)](https://t.me/mophias) &nbsp;&nbsp;[![](https://img.shields.io/badge/-简历-red)](https://github.com/mophia/mophia/resume/Go开发工程师_刘俊.pdf)
+👋 Hi, my name is **mophia**, a **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-Telegram-blue)](https://t.me/mophias) &nbsp;&nbsp;[![](https://img.shields.io/badge/-简历-red)](https://github.com/mophia/mophia/blob/main/resume/Go开发工程师_刘俊.pdf)
 
 I'm focusing on Go, and also passionate on JavaScript & Python. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
@@ -7,13 +7,17 @@ I'm focusing on Go, and also passionate on JavaScript & Python. <img src="https:
 ### Tech Stack
 
 <h5>
-  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="40"/></a>  &nbsp;&nbsp;&nbsp;
+  <br /> <br />
+  &nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"><img src="img/redis.svg" alt="Redis" height="50"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="50"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
-  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Python" height="50"></a> &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Numpy" height="50"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
   <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="50"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="50"/></a>  &nbsp;&nbsp;&nbsp;
