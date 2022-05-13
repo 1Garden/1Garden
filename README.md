@@ -9,22 +9,22 @@ I'm focusing on Go, and also passionate on JavaScript & Python. <img src="https:
 <h5>
   &nbsp;&nbsp;&nbsp;
   <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="50"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="55"></a> &nbsp;&nbsp;&nbsp;;&nbsp;
   <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="40"/></a>  &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"><img src="img/redis.svg" alt="Redis" height="50"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="50"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="40"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Numpy" height="50"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="50"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="50"/></a>  &nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="50"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://svelte.dev" target="_blank"><img src="img/svelte.svg" alt="sveltejs" height="50"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="50"/></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org" target="_blank"><img src="img/reactjs.svg" alt="reactjs" height="40"/></a>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"><img src="img/vuejs.svg" alt="vuejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://svelte.dev" target="_blank"><img src="img/svelte.svg" alt="sveltejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="40"/></a>  &nbsp;&nbsp;&nbsp;&nbsp;
 </h5>
 <br />
 
