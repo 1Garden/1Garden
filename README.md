@@ -1,6 +1,6 @@
-👋 Hi, my name is **mophia**, a **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink)](https://space.bilibili.com/688435320/)
+👋 Hi, my name is **mophia**, a **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-telegram-blue)](https://t.me/mophias) &nbsp;&nbsp;[![](https://img.shields.io/badge/-简历-purple)](https://github.com/mophia/mophia/resume/Go开发工程师_刘俊.pdf)
 
-I'm focusing on Go, and also passionate on JavaScript ( Vue.js ) & Python. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+I'm focusing on Go, and also passionate on JavaScript & Python. <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
 
