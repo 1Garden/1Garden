@@ -1,6 +1,6 @@
 👋 Hi, my name is **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen?style=flat-square)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink?style=flat-square)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square)](https://t.me/mophias) &nbsp;&nbsp;[![](https://img.shields.io/badge/-简历-red?style=flat-square)](https://github.com/mophia/mophia/blob/main/resume/Go开发工程师_刘俊.pdf)
 
-I'm focusing on Go [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev) programming, and meanwhile passionate about JavaScript [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info) & Python [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org).
+I'm focusing on Go [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev) programming, and passionate about JavaScript [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info) & Python [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org).
 
 Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
