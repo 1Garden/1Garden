@@ -31,14 +31,12 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 <br />
 
 ### My Girl
-   
    [BFY](https://bfy.jun.one)
 
 ### Hobbies
-
 - Cookies 🍪, Formula One 🏎️, Liverpool FC.
 
-### Statics
+### Statistics
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="50%"/>&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="42%" />
