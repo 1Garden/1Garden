@@ -39,13 +39,23 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 ### Statistics
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="50%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="42%" />
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="45%" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="50%" />&nbsp;&nbsp;
+  <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=Gophist&cn=true" width="45%" /></a>
 </p>
 
 ### Open-source projects
 
-- [mophia.com](https://mophia.com) - Blog based on Next.js.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=LeetCode)](https://github.com/mophia/LeetCode)
+
+<p align="left">
+  <a href="https://github.com/mophia/Mophia.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=Mophia.com" width="46%" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/mophia/interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=interview" width="46%" /></a>
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=School)](https://github.com/mophia/School)
+
 - [three.bingo](https://three.bingo) - My Three.js demos.
-- [interview](https://github.com/xext/interview) - 面试导向的 Go 学习仓库.
-- [School](https://github.com/Gophist/School) - Recommended Online Courses
