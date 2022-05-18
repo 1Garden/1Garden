@@ -10,16 +10,16 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 
 <h5>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="55"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="45"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="40"/></a>  &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank"><img src="img/redis.svg" alt="Redis" height="50"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://redis.io" target="_blank"><img src="img/redis.svg" alt="Redis" height="40"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="40"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Numpy" height="50"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Numpy" height="40"></a> &nbsp;&nbsp;&nbsp;
   <br /> <br />
   &nbsp;&nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,8 +30,8 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 </h5>
 <br />
 
-### My Girl
-   [BFY](https://bfy.jun.one)
+### My Girl & Our Website
+[@floybu](https://github.com/floybu)   [https://bfy.jun.one](https://bfy.jun.one)
 
 ### Hobbies
 - Cookies 🍪, Formula One 🏎️, Liverpool FC.
@@ -44,18 +44,15 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="50%" />&nbsp;&nbsp;
-  <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=Gophist&cn=true" width="45%" /></a>
+  <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=gophist&cn=true" width="45%" /></a>
 </p>
 
 ### Open-source projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=LeetCode)](https://github.com/mophia/LeetCode)
-
 <p align="left">
   <a href="https://github.com/mophia/Mophia.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=Mophia.com" width="46%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/mophia/interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=interview" width="46%" /></a>
+  <a href="https://github.com/mophia/three.bingo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=three.bingo" width="46%" /></a>
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=School)](https://github.com/mophia/School)
 
-- [three.bingo](https://three.bingo) - My Three.js demos.
