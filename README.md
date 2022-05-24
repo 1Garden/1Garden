@@ -31,12 +31,15 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
 <br />
 
 ### My Girl & Our Website
+
 [@floybu](https://github.com/floybu)   [https://bfy.jun.one](https://bfy.jun.one)
 
 ### Hobbies
+
 - Cookies 🍪, Formula One 🏎️, Liverpool FC.
 
 ### Statistics
+
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="50%"/>&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="45%" />
@@ -54,5 +57,4 @@ Cumulative Coding time <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4
   <a href="https://github.com/mophia/three.bingo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=three.bingo" width="46%" /></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=School)](https://github.com/mophia/School)
-
+- [iQR](https://github.com/xext/iQR) - 一个 mini 二维码生成工具.
