@@ -1,6 +1,6 @@
 👋 Hi, my name is **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen?style=flat-square)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink?style=flat-square)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square)](https://t.me/mophias) &nbsp;&nbsp; <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
-<img align="right" alt="Quokka" src="img/quokka.jpg" width="360" />
+<img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
 ### Tech Stack
 
@@ -22,15 +22,11 @@
   <a href="https://svelte.dev" target="_blank"><img src="img/svelte.svg" alt="sveltejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="40"/></a>  &nbsp;&nbsp;&nbsp;&nbsp;
 </h5>
-<br />
 
-### My Girl & Our Website
+### About Me 
 
-[@floybu](https://github.com/floybu)   [https://bfy.jun.one](https://bfy.jun.one)
-
-### Hobbies
-
-- Cookies 🍪, Formula One 🏎️, Liverpool FC.
+- My Girl & Our Website: [@floybu](https://github.com/floybu)   [https://bfy.jun.one](https://bfy.jun.one)
+- Hobbies: Cookies 🍪, Formula One 🏎️, Liverpool FC.
 
 ### Statistics
 
@@ -44,11 +40,8 @@
   <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=gophist&cn=true" width="45%" /></a>
 </p>
 
-### Open-source projects
+### My Websites
 
-<p align="left">
-  <a href="https://github.com/mophia/Mophia.com"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=Mophia.com" width="46%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/mophia/three.bingo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mophia&repo=three.bingo" width="46%" /></a>
-</p>
-
-- [iQR](https://github.com/xext/iQR) - 一个 mini 二维码生成工具.
+- Personal Main Website <https://mophia.com>
+- My Three.js Website <https://three.bingo>
+<!-- - [iQR](https://github.com//iQR) - 一个 mini 二维码生成工具. -->
