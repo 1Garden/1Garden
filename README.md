@@ -1,4 +1,4 @@
-👋 Hi, my name is **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;
+👋 Hi, I'm **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;
 [![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=white)](https://www.douban.com/people/moph/) &nbsp;&nbsp;
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; 
