@@ -1,4 +1,8 @@
-👋 Hi, my name is **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;[![](https://img.shields.io/badge/-Douban-brightgreen?style=flat-square)](https://www.douban.com/people/moph/) &nbsp;&nbsp;[![](https://img.shields.io/badge/-Bilibili-pink?style=flat-square)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square)](https://t.me/mophias) &nbsp;&nbsp; <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+👋 Hi, my name is **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;
+[![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=white)](https://www.douban.com/people/moph/) &nbsp;&nbsp;
+[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; 
+[![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; 
+<img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
@@ -9,24 +13,21 @@
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
 [![](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
-
-<h5>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://docker.com/" target="_blank"><img src="img/docker.svg" alt="Docker" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gin-gonic.com/" target="_blank"><img src="img/gin.png" alt="Gin" height="45"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/spf13/viper" target="_blank"><img src="img/viper.png" alt="viper" height="40"/></a>  &nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank"><img src="img/redis.svg" alt="Redis" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mysql.com" target="_blank"><img src="img/mysql.svg" alt="MySQL" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank"><img src="img/numpy.svg" alt="Numpy" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://threejs.org" target="_blank"><img src="img/threejs.png" alt="threejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://svelte.dev" target="_blank"><img src="img/svelte.svg" alt="sveltejs" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://echarts.apache.org" target="_blank"><img src="img/echarts.png" alt="echarts" height="40"/></a>  &nbsp;&nbsp;&nbsp;&nbsp;
-</h5>
+[![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
+[![](https://img.shields.io/badge/ECharts-DC382D?style=flat-square&logo=Apache%20ECharts&logoColor=white)](https://echarts.apache.org)
+[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)<br />
+[![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](https://redis.io)
+[![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
+[![](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)](https://numpy.org)<br />
+[![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
+[![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
 ### About Me 
 
-- My Girl & Our Website: [@floybu](https://github.com/floybu)   [https://bfy.jun.one](https://bfy.jun.one)
-- Hobbies: Cookies 🍪, Formula One 🏎️, Liverpool FC.
+- My Girl: [@floybu](https://github.com/floybu) & Our Website: [https://bfy.jun.one](https://bfy.jun.one)
+- Hobbies: Cookies 🍪, Formula One 🏎️.
 
 ### Statistics
 
