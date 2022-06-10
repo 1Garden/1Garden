@@ -32,13 +32,9 @@
 ### Statistics
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="50%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="45%" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=7&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="50%" />&nbsp;&nbsp;
-  <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=gophist&cn=true" width="45%" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mophia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="30%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="30%" />
+  <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=gophist&cn=true" width="30%" /></a>
 </p>
 
 ### My Websites
