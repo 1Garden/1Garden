@@ -24,10 +24,11 @@
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-### About Me 
+### My Websites
 
-- My Girl: [@floybu](https://github.com/floybu) & Our Website: [https://bfy.jun.one](https://bfy.jun.one)
-- Hobbies: Cookies 🍪, Formula One 🏎️.
+- Personal Main Website <https://mophia.com>
+- My Three.js Website <https://three.bingo>
+<!-- - [iQR](https://github.com//iQR) - 一个 mini 二维码生成工具. -->
 
 ### Statistics
 
@@ -36,9 +37,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mophia&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="30%" />
   <a href="https://leetcode-cn.com/u/Gophist/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=gophist&cn=true" width="30%" /></a>
 </p>
-
-### My Websites
-
-- Personal Main Website <https://mophia.com>
-- My Three.js Website <https://three.bingo>
-<!-- - [iQR](https://github.com//iQR) - 一个 mini 二维码生成工具. -->
