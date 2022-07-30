@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; 
 <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
-❤️ Go, Vue.js, Three.js, Swift. Chinese Name is 刘俊(Liu Jun). An ENFJ.  
+❤️ Go, Vue.js, Three.js, Swift. Chinese Name is 刘俊(Liu Jun). A Gopher and an ENFJ.  
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
 ### Tech Stack
