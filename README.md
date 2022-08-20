@@ -1,10 +1,12 @@
-👋 Hi, I'm **mophia**, a junior **Full Stack developer** from China. &nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg)
+
+👋 Hi, I'm **mophia**, 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ. &nbsp;&nbsp; 
 [![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=white)](https://www.douban.com/people/moph/) &nbsp;&nbsp;
-[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp; 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; 
 <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
-❤️ Go, Vue.js, Three.js, Swift. Chinese Name is 刘俊(Liu Jun). A Gopher and an ENFJ.  
+<!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
+
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
 ### Tech Stack
@@ -21,7 +23,7 @@
 [![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](https://redis.io)
 [![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-[![](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)](https://numpy.org)<br />
+[![](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)](https://numpy.org)
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
