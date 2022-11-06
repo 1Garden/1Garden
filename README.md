@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B8%BA%E5%B0%8F%E5%B0%98%E5%9F%83%EF%BC%9B%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg)
 
 👋 Hi, I'm **mophia**, 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ. &nbsp;&nbsp; 
 [![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=white)](https://www.douban.com/people/moph/) &nbsp;&nbsp;
