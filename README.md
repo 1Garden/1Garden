@@ -30,13 +30,14 @@
 ### My Websites
 - <https://www.jun.one>
 - Personal Main Website <https://mophia.com>
-- My Three.js Website <https://three.bingo>
-<!-- - [iQR](https://github.com//iQR) - 一个 mini 二维码生成工具. -->
 
 ### Statistics
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiuYoga&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="35%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuYoga&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="30%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singfish&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="35%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singfish&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="30%" />
   <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=mophia&cn=true" width="30%" /></a>
 </p>
+
+- You can contact me in Telegram: <https://t.me/singfish>
+- You can watch my design work in Figma: <https://figma.com/@singfish>
