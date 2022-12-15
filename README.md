@@ -40,4 +40,4 @@
 </p>
 
 - You can contact me in Telegram: <https://t.me/singfish>
-- You can watch my design work in Figma: <https://figma.com/@singfish>
+- You can watch my design work in Figma: <https://figma.com/@qo>
