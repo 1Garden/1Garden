@@ -1,7 +1,7 @@
 <img align="center" alt="motto" src="img/motto.png" width="800" />
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) -->
-<br /><br /><br />
+<br />
 👋 Hi, I'm **dance**, 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ. &nbsp;&nbsp;
 <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
@@ -9,8 +9,7 @@
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
-
-My **Tech Stack** includes as follows:
+- My **Tech Stack** includes as follows:<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
@@ -27,9 +26,9 @@ My **Tech Stack** includes as follows:
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-### My Websites
-- <https://www.jun.one>
-- Personal Main Website <https://mophia.com>
+- Here are My Websites：
+  1. <https://www.jun.one>
+  2. <https://mophia.com>
 
 ### Statistics
 
