@@ -2,12 +2,20 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) -->
 <br />
-👋 Hi, I'm **dance**, 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ. &nbsp;&nbsp;
-<img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+
+<img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
+
+- 👋 Hi, I'm **dance** , 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ.
 
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
-<img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
+
+
+- My Coding Time: <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+  
+- You can contact me by [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; : <https://t.me/singfish>
+  
+- You can watch my design work in Figma: <https://figma.com/@dance>
 
 - My **Tech Stack** includes as follows:<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -28,15 +36,15 @@
 
 - Here are My Websites：
   1. <https://www.jun.one>
-  2. <https://mophia.com>
+  2. <https://www.jun.run>
+  3. <https://www.jun.sh>
+  4. <https://mophia.com>
+  5. 
 
-### Statistics
+- My Statistics
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanceLiu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="48%"/>&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanceLiu&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
   <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="50%" /></a>
 </p>
-
-- You can contact me by [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; : <https://t.me/singfish>
-- You can watch my design work in Figma: <https://figma.com/@qo>
