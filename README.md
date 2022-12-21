@@ -10,14 +10,13 @@
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
 
-
 - My Coding Time: <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
   
-- You can contact me by [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mophias) &nbsp;&nbsp; : <https://t.me/singfish>
+- You can contact me by [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rmnce)
   
-- You can watch my design work in Figma: <https://figma.com/@dance>
+- You can watch my design work in Figma: <https://figma.com/@romance>
 
-- My Mastodon: **@dance@mastodon.world** <https://mastodon.world/@dance>
+- My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
 
 - My **Tech Stack** includes as follows:<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -40,8 +39,6 @@
   1. <https://www.jun.one>
   2. <https://www.jun.run>
   3. <https://www.jun.sh>
-  4. <https://mophia.com>
-  5. 
 
 - My Statistics
 
