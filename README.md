@@ -1,11 +1,11 @@
 <img align="center" alt="motto" src="img/motto.png" width="800" />
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) <a rel="me" href="https://mas.to/@Romance">Mastodon</a>-->
 <br />
 
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="260" />
 
-- 👋 Hi, I'm **dance** , 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ.
+- 👋 Hi, I'm **Romance** , 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ.
 
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
@@ -16,7 +16,7 @@
   
 - You can watch my design work in Figma: <https://figma.com/@romance>
 
-- My <a rel="me" href="https://mas.to/@Romance">Mastodon</a> (Micro-blog): `@Romance@mas.to`
+- My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
 
 - My **Tech Stack** includes as follows:<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
