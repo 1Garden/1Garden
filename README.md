@@ -47,3 +47,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmne&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
   <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="50%" /></a>
 </p>
+
+- My Work
+  1. 合同风险报表 [Contract Risk Report](https://github.com/rmne/Contract-Risk-Report) Preview：<https://chart.jun.one>
+  ![image](https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png)
+
+
+
+
