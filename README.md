@@ -16,7 +16,7 @@
   
 - You can watch my design work in Figma: <https://figma.com/@romance>
 
-- My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
+- My <a rel="me" href="https://mas.to/@Romance">Mastodon</a> (Micro-blog): `@Romance@mas.to`
 
 - My **Tech Stack** includes as follows:<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
