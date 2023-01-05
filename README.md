@@ -1,4 +1,4 @@
-<img align="center" alt="motto" src="img/motto.png" width="800" />
+<!-- <img align="center" alt="motto" src="img/motto.png" width="800" /> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) <a rel="me" href="https://mas.to/@Romance">Mastodon</a>-->
 <br />
@@ -35,11 +35,6 @@
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-- Here are My Websites：
-  1. <https://www.jun.one>
-  2. <https://www.jun.run>
-  3. <https://www.jun.sh>
-
 - My Statistics
 
 <p align="left">
@@ -51,7 +46,3 @@
 - My Work
   1. 合同风险报表 [Contract Risk Report](https://github.com/rmne/Contract-Risk-Report) Preview：<https://chart.jun.one>
   ![image](https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png)
-
-
-
-
