@@ -1,21 +1,28 @@
+## Hey 👋, I'm Romance.  ![Profile views counter](https://komarev.com/ghpvc/?username=rmne&&style=for-the-badge)
+
+![header](./img/header.png)
+
+### Glad to see you here! 
+
+
 <!-- <img align="center" alt="motto" src="img/motto.png" width="800" /> -->
 
-<img align="right" alt="Bear" src="img/bear.png" width="300" />
+<img align="right" alt="Bear" src="img/bear.png" width="400" />
 
-- 👋 Hi, I'm **Romance** , 刘俊(Liu Jun), an ENFJ developer with ❤️.
+*Hi, I'm Romance, 刘俊 Liu Jun, an ENFJ developer with ❤️.*
 
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
-<!-- 
+<!--
 - My Coding Time: <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/> -->
 
-- Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rmnce)
+- Contact me [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rmnce)
 
-- Watch my design work in [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@romance)
+- My Design [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@romance)
 
-- My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
+- Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
 
-- **Tech Stack** :<br>
+## Languages and Tools
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)<br />
@@ -32,14 +39,18 @@
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-- My Statistics
-
+## Github Status
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmne&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="48%"/>&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmne&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
   <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="50%" /></a>
 </p>
 
-- My Work
-  1. 合同风险报表 [Contract Risk Report](https://github.com/rmne/Contract-Risk-Report) Preview：<https://chart.jun.one>
-  ![image](https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png)
+## My Demos
+<details>
+<summary>1.合同风险报表 Contract Risk Report </summary>
+Repo: https://github.com/rmne/Contract-Risk-Report
+
+Preview: https://chart.jun.one
+<img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
+</details>
