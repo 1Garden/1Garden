@@ -1,6 +1,6 @@
 <!-- <img align="center" alt="motto" src="img/motto.png" width="800" /> -->
 
-<img align="right" alt="Quokka" src="img/quokka.jpg" width="300" />
+<img align="right" alt="Bear" src="img/bear.png" width="300" />
 
 - 👋 Hi, I'm **Romance** , 刘俊(Liu Jun), an ENFJ developer with ❤️.
 
@@ -8,19 +8,19 @@
 
 <!-- 
 - My Coding Time: <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/> -->
-  
-- Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rmnce)
-  
-- Watch my design work in Figma: <https://figma.com/@Romance>
+
+- Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rmnce)
+
+- Watch my design work in [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@romance)
 
 - My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
 
 - **Tech Stack** :<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
-[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
-[![](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
+[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)<br />
+[![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
+[![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
 [![](https://img.shields.io/badge/ECharts-DC382D?style=flat-square&logo=Apache%20ECharts&logoColor=white)](https://echarts.apache.org)
 [![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)<br />
