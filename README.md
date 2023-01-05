@@ -1,24 +1,21 @@
 <!-- <img align="center" alt="motto" src="img/motto.png" width="800" /> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=F78AE0&multiline=true&width=500&height=66&lines=Where+there+is+a+will%2C+there+is+a+way.;%E6%9C%89%E5%BF%97%E8%80%85%EF%BC%8C%E4%BA%8B%E7%AB%9F%E6%88%90%E3%80%82)](https://git.io/typing-svg) <a rel="me" href="https://mas.to/@Romance">Mastodon</a>-->
-<br />
-
 <img align="right" alt="Quokka" src="img/quokka.jpg" width="300" />
 
-- 👋 Hi, I'm **Romance** , 刘俊(Liu Jun), a developer from China. ❤️  An ENFJ.
+- 👋 Hi, I'm **Romance** , 刘俊(Liu Jun), an ENFJ developer with ❤️.
 
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
 <!-- 
 - My Coding Time: <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/> -->
   
-- You can contact me by [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rmnce)
+- Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rmnce)
   
-- You can watch my design work in Figma: <https://figma.com/@romance>
+- Watch my design work in Figma: <https://figma.com/@Romance>
 
 - My Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
 
-- My **Tech Stack** includes as follows:<br>
+- **Tech Stack** :<br>
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
