@@ -1,4 +1,4 @@
-## Hey 👋, I'm Romance.  ![Profile views counter](https://komarev.com/ghpvc/?username=rmne&&style=for-the-badge)
+## Hey 👋, I'm Romance.  ![Profile views counter](https://komarev.com/ghpvc/?username=rmne&&style=for-the-badge) <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 ![header](./img/header.png)
 
