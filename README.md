@@ -1,9 +1,8 @@
-## Hey 👋, I'm Romance.  ![Profile views counter](https://komarev.com/ghpvc/?username=rmne&&style=for-the-badge) <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+## Hey👋 Wish you a good day!
 
 ![header](./img/header.png)
 
-### Glad to see you here! 
-
+### It's my honor to meet you here! 
 
 <!-- <img align="center" alt="motto" src="img/motto.png" width="800" /> -->
 
@@ -40,11 +39,12 @@
 [![](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)](https://numpy.org)
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
+ <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
 ## Github Status
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmne&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="48%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmne&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mggy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="48%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mggy&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
   <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="50%" /></a>
 </p>
 
@@ -56,3 +56,5 @@ Repo: https://github.com/rmne/Contract-Risk-Report
 Preview: https://chart.jun.one
 <img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
 </details>
+
+[Profile views counter](https://komarev.com/ghpvc/?username=mggy&&style=for-the-badge)
