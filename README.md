@@ -9,7 +9,9 @@
 
 <img align="right" alt="Bear" src="img/bear.png" width="400" />
 
-*Hi, I'm Romance, 刘俊 Liu Jun, an ENFJ developer with ❤️.*
+- Nice to meet U (๑¯◡¯๑), My name is Meggy 刘俊, an ENFJ developer with ❤️. 
+
+- I am focusing on Front End, UI Design, [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang).
 
 <!--[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/688435320/) &nbsp;&nbsp;  -->
 
