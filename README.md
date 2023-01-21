@@ -57,4 +57,4 @@ Preview: https://chart.jun.one
 <img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
 </details>
 
-[Profile views counter](https://komarev.com/ghpvc/?username=mggy&&style=for-the-badge)
+![Profile views counter](https://komarev.com/ghpvc/?username=Romce&&style=for-the-badge)
