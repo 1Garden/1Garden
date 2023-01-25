@@ -4,9 +4,9 @@
 
 - Nice to meet U (๑¯◡¯๑), My name is Meggy Romance 刘俊, an ENFJ developer with ❤️.
 
-- Focusing on Front End and UI Design.
+- Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang).
 
-- Interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang).
+- My Tech Blog: <https://jun.sh>
 
 - Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rmnce)
 
@@ -33,9 +33,9 @@
 
 ####  Github Status
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mggy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="40%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggy&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="48%" />
-  <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="50%" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Romce&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romce&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" />
+  <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="40%" /></a>
 </p>
 
 ####  My Works and Demos
