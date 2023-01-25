@@ -4,25 +4,21 @@
 
 - Nice to meet U (๑¯◡¯๑), My name is Meggy Romance 刘俊, an ENFJ developer with ❤️.
 
-- Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang).
+- Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang). My Tech Blog: <https://jun.sh>.
 
-- My Tech Blog: <https://jun.sh>
+- You can Find my Design at [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@Romance) @Romance
 
-- Contact me in [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rmnce)
-
-- Find my Design at [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@romance)
-
-- Mastodon (Micro-blog): [@Romance@mas.to](https://mas.to/@Romance)
+- My Micro-blog is in Mastodon: [@Romance@mas.to](https://mas.to/@Romance)
 
 #### Languages and Tools
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
-[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)<br />
+[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
 [![](https://img.shields.io/badge/ECharts-DC382D?style=flat-square&logo=Apache%20ECharts&logoColor=white)](https://echarts.apache.org)
-[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)<br />
+[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](https://redis.io)
@@ -31,7 +27,7 @@
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-####  Github Status
+#### Github Status
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Romce&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romce&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" />
