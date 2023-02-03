@@ -51,6 +51,10 @@ Repo: https://github.com/Ucely/Contract-Risk-Report
 Preview: https://chart.jun.one
 <img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
 </details>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Ucely&&style=for-the-badge)
- <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+ 
+ 
+ 
+ <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat" alt="Ucely's profile Views" />
+  <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
+</p>
