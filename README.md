@@ -4,7 +4,7 @@
 
 - Nice to meet U (๑¯◡¯๑), My name is Meggy Romance 刘俊, an ENFJ developer with ❤️.
 
-- Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang). My Tech Blog: <https://jun.sh>.
+- Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang). My Knowledge Map: <https://know.ucely.com>.
 
 - You can Find my Design at [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@Romance) @Romance
 
