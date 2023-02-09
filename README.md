@@ -2,11 +2,11 @@
 
 #### Hey👋 Wish you a good day!
 
-- Nice to meet U (๑¯◡¯๑), My name is Meggy Romance 刘俊, an ENFJ developer with ❤️.
+- Nice to meet U (๑¯◡¯๑), My name is Romance Ucely. 刘俊 in Chinese.
 
 - Focusing on Front End and UI Design, interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang). My Knowledge Map: <https://know.ucely.com>.
 
-- You can Find my Design at [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@Romance) @Romance
+- You can Find my Design at &nbsp;[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@Romance) @Romance
 
 - My Micro-blog is in Mastodon: [@Romance@mas.to](https://mas.to/@Romance)
 
@@ -27,11 +27,11 @@
 [![](https://img.shields.io/badge/Gin-DC382D?style=flat-square&logo=Gin&logoColor=white)](https://gin-gonic.com/)
 [![](https://img.shields.io/badge/Viper-DC382D?style=flat-square&logo=viper&logoColor=white)](https://github.com/spf13/viper)
 
-#### Github Status
+#### LeetCode
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ucely&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucely&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" />
-  <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="40%" /></a>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ucely&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucely&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" /> -->
+  <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="20%" /></a>
 </p>
 
 ####  My Works and Demos
@@ -54,9 +54,10 @@ Preview: https://chart.jun.one
  
 #### Open Source Projects I join
 <details>
-<summary>1. MDN Web Docs </summary>
+<summary>1. MDN Web Docs - MDN 中文文档翻译</summary>
 Repo: https://github.com/mdn/translated-content
-MDN 中文文档翻译
+
+CSS排版 - 网格: https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Grids
 </details>
 
 <details>
