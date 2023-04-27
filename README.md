@@ -1,3 +1,6 @@
+Front End Developer and Designer. 🎃
+Three.js enthusiast 💓  ,&  Node.js and Go Beginner ⛄️
+
 ![header](./img/green_fields.png)
 
 #### Hey👋 Wish you a good day!
@@ -22,17 +25,10 @@
 [![](https://img.shields.io/badge/ECharts-DC382D?style=flat-square&logo=Apache%20ECharts&logoColor=white)](https://echarts.apache.org)
 [![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)
 
-#### LeetCode
-<p align="left">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ucely&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucely&langs_count=10&hide_title=true&hide_border=true&layout=compact&hide=GLSL,Roff" width="40%" /> -->
-  <a href="https://leetcode-cn.com/u/mophia/"><img align="center" src="https://stats.justsong.cn/api/leetcode?username=singfish" width="20%" /></a>
-</p>
-
 ####  My Works and Demos
 <details>
 <summary>1. 领导驾驶舱 BigScreen Cockpit </summary>
-Repo: https://github.com/Ucely/BigScreen-Cockpit
+Repo: https://github.com/Ukea/BigScreen-Cockpit
 
 Preview: https://bigscreen.jun.one
 
@@ -41,7 +37,7 @@ Preview: https://bigscreen.jun.one
 
 <details>
 <summary>2. 合同风险报表 Contract Risk Report </summary>
-Repo: https://github.com/Ucely/Contract-Risk-Report
+Repo: https://github.com/Ukea/Contract-Risk-Report
 
 Preview: https://chart.jun.one
 <img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
@@ -67,7 +63,7 @@ Repo: https://github.com/threejs
 Three.js 中文文档翻译
 </details>
 
-#### My BEST repos
+#### My Open Source Repos
 
 ##### Node.js
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucely&repo=Getting_Started_with_Node.js&show_owner=true)](https://github.com/Ucely/Getting_Started_with_Node.js)
