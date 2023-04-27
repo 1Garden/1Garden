@@ -1,29 +1,29 @@
-Front End Developer and Designer. 🎃
-Three.js enthusiast 💓  ,&  Node.js and Go Beginner ⛄️
+## Hey👋 Wish you a good day!
+
+Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. 
+
+Focusing on Front End and UI Design.🎃  Three.js enthusiast 💓 &  Node.js and Go Beginner ⛄️
+
+Tech blog: <https://know.ucely.com>.
 
 ![header](./img/green_fields.png)
 
-#### Hey👋 Wish you a good day!
-
-- Nice to meet U (๑¯◡¯๑), My name is Romance Ucely. 刘俊 in Chinese.
-- Focusing on Front End and UI Design. Interested in [Go](https://github.com/golang), [Swift](https://github.com/apple/swift) and [Rust](https://github.com/rust-lang). 
-- My Knowledge Map: <https://know.ucely.com>.
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat" alt="Ucely's profile Views" />
-  <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
-  <img src="https://img.shields.io/github/stars/Ucely?color=%23d3f261"/>
-</p>
-
-#### Languages
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
-[![](https://img.shields.io/badge/ECharts-DC382D?style=flat-square&logo=Apache%20ECharts&logoColor=white)](https://echarts.apache.org)
-[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://svelte.dev)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat" alt="Ukea profile Views" />
+  <img src="https://img.shields.io/github/stars/Ukea?color=%23d3f261"/>
+</p>
+
+## My Repos
+
+### Node.js
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucely&repo=Getting_Started_with_Node.js&show_owner=true)](https://github.com/Ucely/Getting_Started_with_Node.js)
 
 ####  My Works and Demos
 <details>
@@ -62,8 +62,3 @@ React.js 中文文档翻译
 Repo: https://github.com/threejs
 Three.js 中文文档翻译
 </details>
-
-#### My Open Source Repos
-
-##### Node.js
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucely&repo=Getting_Started_with_Node.js&show_owner=true)](https://github.com/Ucely/Getting_Started_with_Node.js)
