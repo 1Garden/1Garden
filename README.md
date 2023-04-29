@@ -20,28 +20,8 @@ Tech blog: <https://know.ucely.com>.
   <img src="https://img.shields.io/github/stars/Ukea?color=%23d3f261"/>
 </p>
 
-## My Repos
-
-### Node.js
+#### Notes
 [![Readme Card](https://ghrm.vercel.app/api/pin/?username=ukea&repo=Node.js-Tour)](https://github.com/Ucely/Getting_Started_with_Node.js)
-
-####  My Works and Demos
-<details>
-<summary>1. 领导驾驶舱 BigScreen Cockpit </summary>
-Repo: https://github.com/Ukea/BigScreen-Cockpit
-
-Preview: https://bigscreen.jun.one
-
-<img src="https://user-images.githubusercontent.com/92929085/216219197-63b94b18-399e-4334-a281-2de6690a717b.png" width="800" />
-</details>
-
-<details>
-<summary>2. 合同风险报表 Contract Risk Report </summary>
-Repo: https://github.com/Ukea/Contract-Risk-Report
-
-Preview: https://chart.jun.one
-<img src="https://user-images.githubusercontent.com/92929085/209303783-cba08523-2fbe-474d-912c-a366d68b420a.png" width="800" />
-</details>
  
 #### Open Source Projects I join
 <details>
