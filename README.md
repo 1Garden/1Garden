@@ -23,7 +23,7 @@ Tech blog: <https://know.ucely.com>.
 ## My Repos
 
 ### Node.js
-[![Readme Card](https://ghrm.vercel.app/api/pin/?username=ukea&repo=Getting_Started_with_Node.js&show_owner=true)](https://github.com/Ucely/Getting_Started_with_Node.js)
+[![Readme Card](https://ghrm.vercel.app/api/pin/?username=ukea&repo=Node.js-Tour)](https://github.com/Ucely/Getting_Started_with_Node.js)
 
 ####  My Works and Demos
 <details>
