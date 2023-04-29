@@ -10,11 +10,8 @@ Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. Focusing on Front End an
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat" alt="Ukea profile Views" />
-  <img src="https://img.shields.io/github/stars/Ukea?color=%23d3f261"/>
-</p>
+![profile Views](https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat-square)
+![](https://img.shields.io/github/stars/Ucely?color=%23d3f261&style=flat-square)
 
 #### Notes
 [![Readme Card](https://ghrm.vercel.app/api/pin/?username=ukea&repo=Node.js-Tour)](https://github.com/Ucely/Getting_Started_with_Node.js)
