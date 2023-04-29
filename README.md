@@ -1,10 +1,6 @@
 ## Hey👋 Wish you a good day!
 
-Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. 
-
-Focusing on Front End and UI Design.🎃  Three.js enthusiast 💓 &  Node.js and Go Beginner ⛄️
-
-Tech blog: <https://know.ucely.com>.
+Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. Focusing on Front End and UI Design.
 
 ![header](./img/green_fields.png)
 
