@@ -2,7 +2,7 @@
 
 ## Hey👋 Wish you a good day!
 
-Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. Focusing on Front End and UI Design.
+Nice to meet U (๑¯◡¯๑) I'm Romance, 刘俊. I focus on Front End and UI Design.
 
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
@@ -13,7 +13,7 @@ Nice to meet U (๑¯◡¯๑), My name is Ukea 刘俊. Focusing on Front End an
 ![profile Views](https://komarev.com/ghpvc/?username=Ucely&label=Profile%20views&color=0e75b6&style=flat-square)
 ![](https://img.shields.io/github/stars/Ucely?color=%23d3f261&style=flat-square)
 
-#### Notes
+#### My Works
 [![Readme Card](https://ghrm.vercel.app/api/pin/?username=ukea&repo=Node.js-Tour)](https://github.com/Ucely/Getting_Started_with_Node.js)
  
 #### Open Source Projects I join
