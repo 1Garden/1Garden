@@ -10,8 +10,8 @@ Nice to meet U (๑¯◡¯๑) I'm Romance, 刘俊. I focus on Front End and UI 
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
-![profile Views](https://komarev.com/ghpvc/?username=romce&label=Profile%20views&color=0e75b6&style=flat-square)
-![](https://img.shields.io/github/stars/romce?color=%23d3f261&style=flat-square)
+![profile Views](https://komarev.com/ghpvc/?username=ukea&label=Profile%20views&color=0e75b6&style=flat-square)
+![](https://img.shields.io/github/stars/ukea?color=pink&style=flat-square)
 
 #### My Works
 [![Readme Card](https://ghrm.vercel.app/api/pin/?username=romce&repo=Node.js-Tour)](https://github.com/romce/Getting_Started_with_Node.js)
