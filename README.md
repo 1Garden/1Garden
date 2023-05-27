@@ -1,14 +1,13 @@
-![header](./img/green_fields.png)
+## Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day!
 
-## Hey👋 Wish you a good day!
-
-Nice to meet U (๑¯◡¯๑) I'm Romance, 刘俊. I focus on Front End and UI Design.
+I'm a ...
+- [![](./img/reactjs.svg)](https://react.dev) **React.js Developer**
 
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](https://javascript.info)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](https://vuejs.org)
+
 [![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)](https://threejs.org)
 ![profile Views](https://komarev.com/ghpvc/?username=ukea&label=Profile%20views&color=0e75b6&style=flat-square)
 ![](https://img.shields.io/github/stars/ukea?color=pink&style=flat-square)
