@@ -2,6 +2,8 @@
 
 I'm a ...
 - [![](./img/reactjs.svg)](https://react.dev) **React.js Developer**
+I ...
+- focus on Design, Web 3D and Data Visualization.
 
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/Go-1E90FF?style=flat-square&logo=go&logoColor=white)](https://go.dev)
