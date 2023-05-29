@@ -2,6 +2,7 @@
 
 I'm a ...
 - [![](./img/reactjs.svg)](https://react.dev) **React.js Developer**
+
 I ...
 - focus on Design, Web 3D and Data Visualization.
 
