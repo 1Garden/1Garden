@@ -1,4 +1,8 @@
-Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day!
+<p align="center">
+  <img src="./img/readme.png">
+</p>
+
+Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
 
 > Hypophora Time!
 
