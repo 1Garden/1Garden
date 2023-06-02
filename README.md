@@ -20,7 +20,7 @@ Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
 
 <details>
 <summary>🍧 Where are your beautiful Works recommended?</summary>
-1. <a href="https://github.com/esuper/Getting_Started_with_Node.js"><img src="https://ghrm.vercel.app/api/pin/?username=esuper&repo=Node.js-Tour" /></a>
+1. <a href="https://github.com/junur/Getting_Started_with_Node.js"><img src="https://ghrm.vercel.app/api/pin/?username=junur&repo=Node.js-Tour" /></a>
 </details>
 
 <details>
@@ -35,5 +35,5 @@ CSS排版 - 网格: https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layou
 Repo: https://github.com/threejs
 </details>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=esuper&label=Profile%20views&color=0e75b6&style=flat-square">
-<img align="right" src="https://img.shields.io/github/stars/esuper?color=pink&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=junur&label=Profile%20views&color=0e75b6&style=flat-square">
+<img align="right" src="https://img.shields.io/github/stars/junur?color=pink&style=flat-square">
