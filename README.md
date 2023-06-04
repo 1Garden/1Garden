@@ -8,7 +8,7 @@ Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
 
 <details>
 <summary>🌷 Who am I? I'm a ...</summary>
-· Front end developer on [React](react.dev).
+· Front end developer on <a href="https://react.dev">React</a>.
 </details>
 
 <details>
@@ -25,14 +25,19 @@ Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
 
 <details>
 <summary>🪻 Have you devoted to Open Source? </summary>
-Sure! The following are my engagements: ...
-1. MDN Web Docs - MDN 中文文档翻译
-Repo: https://github.com/mdn/translated-content
-CSS排版 - 网格: https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Grids
-<br/>
-2. React Doc
-3. Three.js 中文文档翻译
-Repo: https://github.com/threejs
+<p>Sure! The following are my engagements: ...</p>
+<ol>
+  <li>MDN Web Docs - MDN 中文文档翻译
+    <br/>
+    Repo: <a href="https://github.com/mdn/translated-content">https://github.com/mdn/translated-content</a>
+    <br/>
+    CSS排版 - 网格: <a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Grids">https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Grids</a>
+  </li>
+  <li>React Doc</li>
+  <li>Three.js 中文文档翻译
+  <br/>
+  Repo: <a href="https://github.com/threejs">https://github.com/threejs</a></li>
+</ol>
 </details>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=AwesomeFrontEnd&label=Profile%20views&color=0e75b6&style=flat-square">
