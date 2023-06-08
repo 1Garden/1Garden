@@ -2,7 +2,12 @@
   <img src="./img/readme.png">
 </p>
 
-Hello👋, nice to meet you.(๑¯◡¯๑) I’m Aurora and I am a product manager. I have been working as a product manager for three years and I specialize in UX & UI design. I enjoy coding and creating front-end applications. My hobbies are coding and front end development. ✨
+Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
+
+I focus on:
+- Product Management
+- User Experience and Interface (UX & UI)
+- Front End
 
 > Hypophora Time!
 
