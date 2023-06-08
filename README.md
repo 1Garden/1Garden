@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/1.png">
+  <img src="./img/1.jpg">
 </p>
 
 Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
@@ -49,9 +49,13 @@ I focus on:
 </ol>
 </details>
 
+<br />
+
 <p align="center">
-  <img src="./img/aurora.png">
+  <img src="./img/aurora.jpg">
 </p>
+
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=AwesomeFrontEnd&label=Profile%20views&color=0e75b6&style=flat-square">
 <img align="right" src="https://img.shields.io/github/stars/AwesomeFrontEnd?color=pink&style=flat-square">
