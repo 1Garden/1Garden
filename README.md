@@ -5,9 +5,9 @@
 Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
 
 I focus on:
-- Product Management
-- User Experience and Interface (UX & UI)
-- Front End
+- **Product Management**
+- **User Experience and Interface** (UX & UI)
+- **Front End**
 
 > Hypophora Time!
 
