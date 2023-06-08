@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/readme.png">
+  <img src="./img/1.png">
 </p>
 
 Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
@@ -8,6 +8,10 @@ I focus on:
 - **Product Management**
 - **User Experience and Interface** (UX & UI)
 - **Front End**
+
+<p align="center">
+  <img src="./img/readme.png">
+</p>
 
 > Hypophora Time!
 
@@ -44,6 +48,10 @@ I focus on:
   Repo: <a href="https://github.com/threejs">https://github.com/threejs</a></li>
 </ol>
 </details>
+
+<p align="center">
+  <img src="./img/aurora.png">
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=AwesomeFrontEnd&label=Profile%20views&color=0e75b6&style=flat-square">
 <img align="right" src="https://img.shields.io/github/stars/AwesomeFrontEnd?color=pink&style=flat-square">
