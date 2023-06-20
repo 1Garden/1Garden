@@ -57,5 +57,5 @@ I focus on:
 
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=AwesomeFrontEnd&label=Profile%20views&color=0e75b6&style=flat-square">
-<img align="right" src="https://img.shields.io/github/stars/AwesomeFrontEnd?color=pink&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=LeoVenus&label=Profile%20views&color=0e75b6&style=flat-square">
+<img align="right" src="https://img.shields.io/github/stars/LeoVenus?color=pink&style=flat-square">
