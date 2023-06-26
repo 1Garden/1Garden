@@ -1,17 +1,22 @@
 <p align="center">
-  <img src="./img/1.jpg">
+  <img src="./img/aurora.jpg">
 </p>
 
 Hey👋 Nice to meet U (๑¯◡¯๑) Wish you a good day! ✨
+
+What am I doing? I ...
+- **Choose valuable content for Precipitation,**
+- **Embrace Modesty and Curiosity,and then**
+- **Explore uncharted territory boldly.**
+  
+- **选择有价值的内容进行沉淀，**
+- **常怀谦虚和好奇心，**
+- **勇于探索未知。**
 
 I focus on:
 - **Product Management**
 - **User Experience and Interface** (UX & UI)
 - **Front End**
-
-<p align="center">
-  <img src="./img/readme.png">
-</p>
 
 > Hypophora Time!
 
@@ -50,10 +55,6 @@ I focus on:
 </details>
 
 <br />
-
-<p align="center">
-  <img src="./img/aurora.jpg">
-</p>
 
 
 
