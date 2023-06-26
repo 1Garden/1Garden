@@ -66,4 +66,4 @@
 </ol>
 </details>
 
-<img align="right" src="https://img.shields.io/github/stars/orria?color=pink&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=orria&label=Profile%20views&color=0e75b6&style=flat-square">
