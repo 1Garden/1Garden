@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aroria&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=visily&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" width="45%"/>
 </p>
   
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bingo&layout=compact&hide_title=true&hide_border=true&langs_count=6&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroria&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=GLSL" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visily&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=GLSL" width="35%" />
 </p>
 
 - ✨ Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/> Glad to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" width="30"/>
@@ -35,7 +35,7 @@
 
 <details>
 <summary>🌷 Who am I? I'm a ...</summary>
-· Front end developer on <a href="https://react.dev">React</a>.
+· Front end developer and UX designer.
 </details>
 
 <details>
