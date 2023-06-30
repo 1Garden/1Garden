@@ -27,9 +27,6 @@
 - 💭 Choose valuable content for Precipitation, Embrace Modesty and Curiosity,and then Explore uncharted territory boldly. (选择有价值的内容进行沉淀，常怀谦虚和好奇心，勇于探索未知。)
 - 💻 Coded for <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
 
-<p align="center">
-  <img src="./img/aurora.jpg">
-</p>
 
 > Hypophora Time!
 
@@ -66,5 +63,9 @@
   Repo: <a href="https://github.com/threejs">https://github.com/threejs</a></li>
 </ol>
 </details>
+
+<p align="center">
+  <img src="./img/aurora.jpg">
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=aroria&label=Profile%20views&color=0e75b6&style=flat-square">
