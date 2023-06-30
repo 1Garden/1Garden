@@ -22,7 +22,7 @@
 </p>
 
 - ✨ Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/> Glad to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" width="30"/>
-- 🌱 I'm Oria, 刘俊. (๑¯◡¯๑)
+- 🌱 I'm Visily, 刘俊. (๑¯◡¯๑)
 - ❤️‍🔥 Front End 🌐 Web, Design, Product Management, React, Python 🐍, Go, Rust, Three.js .
 - 💭 Choose valuable content for Precipitation, Embrace Modesty and Curiosity,and then Explore uncharted territory boldly. (选择有价值的内容进行沉淀，常怀谦虚和好奇心，勇于探索未知。)
 - 💻 Coded for <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
