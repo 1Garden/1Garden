@@ -1,5 +1,3 @@
-<h1>Visily</h1>
-
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" alt="js" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="js" height="40"></a>&nbsp;&nbsp;&nbsp;
@@ -16,13 +14,13 @@
 </p>
   
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=visily&layout=compact&hide_title=true&hide_border=true&langs_count=6&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arorio&layout=compact&hide_title=true&hide_border=true&langs_count=6&hide=Markdown,JSON,YAML,Gitignore%20file,XML,Toml,Git%20Config" width="55%" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visily&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=GLSL" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arorio&langs_count=6&hide_title=true&hide_border=true&layout=compact&hide=GLSL" width="35%" />
 </p>
 
 - ✨ Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/> Glad to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" width="30"/>
-- 🌱 I'm Visily, 刘俊. (๑¯◡¯๑)
+- 🌱 I'm Arorio, 刘俊. (๑¯◡¯๑)
 - ❤️‍🔥 Front End 🌐 Web, Design, Product Management, React, Python 🐍, Go, Rust, Three.js .
 - 💭 Choose valuable content for Precipitation, Embrace Modesty and Curiosity,and then Explore uncharted territory boldly. (选择有价值的内容进行沉淀，常怀谦虚和好奇心，勇于探索未知。)
 - 💻 Coded for <img src="https://wakatime.com/badge/user/86cbdefc-fb69-4fd8-a1de-11289c6386aa.svg"/>
