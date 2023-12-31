@@ -1,5 +1,3 @@
-# Aro Visily 刘俊
-
 <p align="center">
   <img align="center" src="./img/bread.jpg" width="80%"/>
 </p>
